@@ -1,0 +1,36 @@
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Form1.resources
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\eqwfdsdsfsdf\source\repos\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Pictures.resources
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Menu.resources
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Game.resources
+D:\C++\Проекты\Практика\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Help.resources
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe.config
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\bin\Debug\SeaBattle.exe
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\bin\Debug\SeaBattle.pdb
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.AssemblyReference.cache
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Game.resources
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Help.resources
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Menu.resources
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Properties.Resources.resources
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.Pictures.resources
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.GenerateResource.cache
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.csproj.CoreCompileInputs.cache
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.exe
+C:\Users\eqwfdsdsfsdf\source\repos\With interface\SeaBattle\SeaBattle\obj\Debug\SeaBattle.pdb
